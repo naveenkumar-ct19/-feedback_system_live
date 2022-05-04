@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca0faaf9.chunk.css",
+    "main.js": "/static/js/main.32af98b9.chunk.js",
+    "main.js.map": "/static/js/main.32af98b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b9bc5d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b9bc5d1.js.map",
+    "static/js/2.67cb8a8e.chunk.js": "/static/js/2.67cb8a8e.chunk.js",
+    "static/js/2.67cb8a8e.chunk.js.map": "/static/js/2.67cb8a8e.chunk.js.map",
+    "static/js/3.854fca16.chunk.js": "/static/js/3.854fca16.chunk.js",
+    "static/js/3.854fca16.chunk.js.map": "/static/js/3.854fca16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ca0faaf9.chunk.css.map": "/static/css/main.ca0faaf9.chunk.css.map",
+    "static/js/2.67cb8a8e.chunk.js.LICENSE.txt": "/static/js/2.67cb8a8e.chunk.js.LICENSE.txt",
+    "static/media/ElonMusk.f0466622.jpg": "/static/media/ElonMusk.f0466622.jpg",
+    "static/media/GoogleSignInButton.a3e637ee.svg": "/static/media/GoogleSignInButton.a3e637ee.svg",
+    "static/media/GoogleSignInButtonHover.e59320d5.svg": "/static/media/GoogleSignInButtonHover.e59320d5.svg",
+    "static/media/login.css": "/static/media/backgroundPattern.bc913e1e.svg",
+    "static/media/bitLogo.43941a60.png": "/static/media/bitLogo.43941a60.png",
+    "static/media/feedbackIllus.22ba0516.svg": "/static/media/feedbackIllus.22ba0516.svg",
+    "static/media/noDataIllus.9f31958f.svg": "/static/media/noDataIllus.9f31958f.svg",
+    "static/media/updateProfile.css": "/static/media/phoneIllus.ca4a180b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b9bc5d1.js",
+    "static/js/2.67cb8a8e.chunk.js",
+    "static/css/main.ca0faaf9.chunk.css",
+    "static/js/main.32af98b9.chunk.js"
+  ]
+}
